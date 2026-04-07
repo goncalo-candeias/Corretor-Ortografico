@@ -13,9 +13,10 @@
 ## Como executar
 1. Instalar Python
 2. Colocar todos os ficheiros na mesma pasta
-3. Correr no terminal:
+3. Abrir a pasta com os ficheiros
+4. Correr no terminal:
 ```
-python testes.py
+python tests.py
 ```
 ## Autor
 Gonçalo Candeias
