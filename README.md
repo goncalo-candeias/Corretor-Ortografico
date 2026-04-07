@@ -1,6 +1,6 @@
 # Corretor Ortográfico
 
-Projeto desenvolvido no âmbito da disciplina de Programação I.
+Projeto desenvolvido no âmbito da unidade curricular Programação I.
 
 Este programa implementa um **corretor ortográfico simples**, capaz de identificar palavras não reconhecidas num texto e sugerir possíveis correções com base num ficheiro com vocabulário fornecido.
 
