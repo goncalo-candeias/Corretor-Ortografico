@@ -16,9 +16,9 @@ Este programa implementa um **corretor ortográfico simples**, capaz de identifi
 ---
 
 ## Ficheiros
-- main.py → implementação das funções principais
-- tests.py → testes do programa (fornecidos pelo professor)
-- vocabulario.txt → lista de palavras utilizadas
+- `main.py` → implementação das funções principais
+- `tests.py` → testes do programa (fornecidos pelo professor)
+- `vocabulario.txt` → lista de palavras utilizadas
 
 ---
 
